@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Can B.</h1> 
-
- -->
  
 <h3 align="center">Full-Stack Developer </h3>
 
@@ -64,3 +62,5 @@
 
 
 ![snake gif](https://github.com/reeyhanyilmaz/reeyhanyilmaz/blob/output/github-contribution-grid-snake.gif)
+<br>
+![DeveloperArchitect's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperArchitect&show_icons=true&theme=default)
