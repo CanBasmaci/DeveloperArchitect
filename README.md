@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently developing **Frontend techs** and **Phyton & Django** projects
 
-- 🌱 I’m currently learning **React, Redux** and **React Native**
+- 🌱 I’m currently learning **React, Redux, NODE JS** and **React Native**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap,SCSS, TailwindCSS, JavaScript, Wordpress**
+- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, JQUERY UI, JavaScript, Wordpress**
 
 - 📫 How to reach me **developerandarchitect@outlook.com**
 
